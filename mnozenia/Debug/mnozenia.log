@@ -1,0 +1,3 @@
+﻿  mnozenia.cpp
+C:\Users\wojtekw\source\repos\mnozenia\mnozenia\mnozenia.cpp(63,36): warning C4244: "=": konwersja z "unsigned int" do "float", możliwa utrata danych
+  mnozenia.vcxproj -> C:\Users\wojtekw\source\repos\mnozenia\Debug\mnozenia.exe
